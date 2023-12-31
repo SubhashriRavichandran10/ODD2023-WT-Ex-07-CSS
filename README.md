@@ -77,6 +77,10 @@ color: #17a2b8;
 </html>
 ```
 OUTPUT:
+![291792174-6aa04563-b317-4969-bc3e-a31bd78ad050](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/c78ef9d6-45d5-4953-8460-1f114ac1bf96)
+![291792232-2397d5e4-f903-4d84-9892-09f34c795fc5](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/f0f867e8-3a71-4010-9739-422e90e52b65)
+
+![291792197-1d81c4b9-10cf-465e-bc2d-236aa906efa0](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/234d1949-dc31-4c84-8f02-48be9c3213a1)
 
 EX-07(ii)-CSS
 AIM:
@@ -130,6 +134,8 @@ CODE:7(ii):
   </html>
   ```
 OUTPUT:
+![291792272-f67a07a6-6814-47b7-9988-80bc4595a8be](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/efc8ece0-f879-49be-b5d3-a68b8ec30abd)
+![291792294-59730efb-b456-48f5-a848-89214d06adca](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/d6654153-bd32-4cc9-a22e-3eb88a1f8aa4)
 
 
 EX-07(iii)-CSS
@@ -190,6 +196,7 @@ color: #4D1B1B;
 </html>
 ```
 OUTPUT:
+![291792338-5d22a2be-0a1d-4316-9e10-2bfc69ed5c3e](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/87155a1b-7b15-4c1a-8d0f-47de7b71f098)
 
 
 EX-07-CSS:7(iv)
@@ -259,6 +266,8 @@ line-height=1;
 </html>
 ```
 OUTPUT:
+![291792408-022141ba-6be3-4fb1-91e1-52789e87d7b1](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/db5baccf-cffe-4327-a7e1-34f6ed07df8f)
+
 
 
 EX-07(V)-CSS:
@@ -320,6 +329,9 @@ CODE:7(V)
   </html>
   ```
 OUTPUT:
+![291792479-bb1b5cba-7b07-4750-a250-4c6a240cd6a4](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/d317c546-81e5-4ad2-85f8-0168e91ce804)
+![291792501-865d65ba-3441-4773-b70c-e7a92dab6e5f](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/d5e31f52-ee23-45a1-b096-8f2d902d63c4)
+
 
 
 EX-07(vi)-CSS:
@@ -387,3 +399,5 @@ font-size=16px;
 </html>
 ```
 OUTPUT:
+![291792598-6327029d-11cd-4297-a040-71717b471eb3](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/059030a0-fcac-4dc1-a703-3d0ccbd9123c)
+![291792911-da3e0ba5-9a54-4c96-88d9-9a07b156bd4c](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-07-CSS/assets/145743413/c95e5606-298f-4e86-9071-baae94bf270e)
